@@ -1,0 +1,203 @@
+Fly - Luxury Jet Flights
+This is a private flight html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = fly logo
+
+alt - fly logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Services
+News
+Shop
+Contact
+
+aria-label = search
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+aria-label = cart
+<ion-icon name="cart-outline"></ion-icon>
+
+aria-label = menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+#---------- HERO ----------#
+
+Save time and fly with comfort
+
+Luxury Jet Flights
+
+Book Now
+Read More
+
+alt = airplane
+
+
+
+#---------- SERVICE ----------#
+
+<ion-icon name="diamond-outline" aria-hidden="true"></ion-icon>
+Luxury & Comfort
+
+<ion-icon name="shield-checkmark-outline" aria-hidden="true"></ion-icon>
+Safe & Secure
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+Personal Schedule
+
+<ion-icon name="business-outline" aria-hidden="true"></ion-icon>
+Many Airports
+
+
+
+#---------- ABOUT ----------#
+
+Get To Know Us
+
+Our fly save your time and give you comfort in flights
+
+Non augue egestas, commodo velit eget, vestibulum tellus. curabitur vulputate justo elit, at elementum orci pulvinar vel. pellentesque habitant morbi tristique. pellentesque habitant morbi tristique. ut non augue egestas, commodo velit eget, vestibulum tellus.
+
+<ion-icon name="checkmark-outline" aria-hidden="ture"></ion-icon>
+
+There are many variations of passage of lorem.
+
+Available but the majority alteration.
+
+Book Now
+
+alt = about banner
+
+
+
+#---------- FEATURE ----------#
+
+Collect Miles
+
+Get discount next flights with our card
+
+Non augue egestas, commodo velit eget, vestibulum tellus. Curabitur vulputate justo elit, at elementum orci pulvinar vel.
+
+Get Card
+
+Exclusive new offers
+
+<ion-icon name="arrow-forward" aria-hidden"true"></ion-icon>
+
+Join our cabin crew
+
+
+
+#---------- OFFER ----------#
+
+
+Special Offer
+
+The best service for business people who appreciate time
+
+Non augue egestas, commodo velit eget, vestibulum tellus. Curabitur vulputate justo elit, at elementum pulvinar. Pellentesque habitant morbi tristique.
+
+Discover More
+
+
+
+#---------- FLIGHTS ----------#
+
+Private Flights
+
+Browse legs of our charters
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum, lacus non faucibus congue, lectus quam viverra nulla, quis egestas neque sapien ac magna.
+
+New York
+<ion-icon name="airplane" aria-hidden="true"></ion-icon>
+Moscow
+
+alt = new york to moscow flight airplane
+
+Date:
+Tuesday, Jul 6, 2022
+
+Departure:
+11:25 pm
+
+Arrival:
+02:25 am
+
+Starting From:
+$2786
+
+Person:
+Adult 3
+
+Book Now
+
+
+
+#---------- NEWSLETTER ----------#
+
+Subscribe Now
+
+Want to know about our offers first?
+
+placeholder = Enter email address
+
+Subscribe
+<ion-icon name="airplane" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+alt = fly logo
+
+Private jet charters save your time and give you comfort.
+
+Explore
+About
+Private Jet Catering
+Destinations
+Flight Search
+Book Flight
+
+Links
+Terms of Use
+Contact
+News & Press
+Games
+FAQs
+
+Contact
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
++01 ( 2345 ) - 6780
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+fly@info.com
+
+<ion-icon name="location" aria-hidden="ture"></ion-icon>
+30 broklyn golden street. New York
+
+Copyright 2022 by codewithsadee.
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="arrow-up-outline" aria-hidden="true"></ion-icon>
